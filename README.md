@@ -1,0 +1,3 @@
+# ShiftManagerAndroid
+
+##卒検
